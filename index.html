@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>BREWVERSE | Cinematic Global Café Experience</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&family=Playfair+Display:wght@400;500;600;700;800;900&family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+
+    <!-- Premium Loader -->
+    <div class="premium-loader">
+        <div class="loader-container">
+            <div class="loader-ring"></div>
+            <div class="loader-ring"></div>
+            <div class="loader-ring"></div>
+
+            <div class="loader-cup">
+                <i class="fas fa-mug-hot"></i>
+            </div>
+
+            <div class="loader-text">
+                BREWING CINEMATIC EXPERIENCE
+            </div>
+
+            <div class="loader-progress">
+                <div class="progress-bar"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Navigation -->
+    <nav class="glass-nav">
+        <div class="nav-container">
+
+            <div class="logo">
+                <div class="logo-icon">
+                    <i class="fas fa-mug-hot"></i>
+                </div>
+
+                <span>BREWVERSE</span>
+            </div>
+
+            <ul class="nav-menu">
+                <li><a href="#home" class="nav-item">Home</a></li>
+                <li><a href="#indian" class="nav-item">Indian</a></li>
+                <li><a href="#korean" class="nav-item">Korean</a></li>
+                <li><a href="#world" class="nav-item">World</a></li>
+            </ul>
+
+            <div class="nav-actions">
+                <button class="glass-btn">
+                    <i class="fas fa-search"></i>
+                </button>
+
+                <button class="glass-btn">
+                    <i class="fas fa-shopping-bag"></i>
+                </button>
+            </div>
+
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <section id="home" class="cinematic-hero">
+        <div class="hero-container">
+
+            <div class="hero-content">
+                <h1 class="hero-title">
+                    Crafted Coffee.
+                    <span class="gradient-text">
+                        Cinematic Café Experience.
+                    </span>
+                </h1>
+
+                <p class="hero-subtitle">
+                    Discover premium coffees inspired by cafés around the world.
+                </p>
+
+                <div class="hero-buttons">
+                    <a href="#indian" class="premium-btn primary">
+                        Explore Menu
+                    </a>
+                </div>
+            </div>
+
+            <div class="hero-showcase">
+                <img src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085"
+                     alt="Coffee"
+                     class="showcase-img">
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Indian Coffee Section -->
+    <section id="indian" class="premium-section">
+        <div class="container">
+
+            <div class="section-header">
+                <h2>Indian Coffee Collection</h2>
+                <p>Traditional Indian brews crafted with authenticity.</p>
+            </div>
+
+            <div class="coffee-grid" id="indianGrid"></div>
+
+        </div>
+    </section>
+
+    <!-- Modal -->
+    <div class="luxury-modal" id="coffeeModal">
+        <div class="modal-overlay"></div>
+
+        <div class="modal-container">
+            <button class="modal-close" id="modalClose">
+                <i class="fas fa-times"></i>
+            </button>
+
+            <div class="modal-inner" id="modalInner"></div>
+        </div>
+    </div>
+
+    <!-- JS -->
+    <script src="script.js"></script>
+
+</body>
+</html>
