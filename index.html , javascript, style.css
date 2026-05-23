@@ -1,0 +1,2175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BREWVERSE | Cinematic Global Café Experience</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&family=Playfair+Display:wght@400;500;600;700;800;900&family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+<!-- Premium Loading Animation -->
+<div class="premium-loader">
+    <div class="loader-container">
+        <div class="loader-ring"></div>
+        <div class="loader-ring"></div>
+        <div class="loader-ring"></div>
+        <div class="loader-cup">
+            <i class="fas fa-mug-hot"></i>
+        </div>
+        <div class="loader-text">BREWING CINEMATIC EXPERIENCE</div>
+        <div class="loader-progress">
+            <div class="progress-bar"></div>
+        </div>
+    </div>
+</div>
+
+<!-- Custom Luxury Cursor -->
+<div class="luxury-cursor">
+    <div class="cursor-dot"></div>
+    <div class="cursor-ring"></div>
+</div>
+
+<!-- Floating Particles Background -->
+<div class="floating-particles">
+    <div class="particle"></div>
+    <div class="particle"></div>
+    <div class="particle"></div>
+    <div class="particle"></div>
+    <div class="particle"></div>
+    <div class="particle"></div>
+    <div class="particle"></div>
+    <div class="particle"></div>
+    <div class="particle"></div>
+    <div class="particle"></div>
+</div>
+
+<!-- Glass Navigation -->
+<nav class="glass-nav">
+    <div class="nav-container">
+        <div class="logo">
+            <div class="logo-icon">
+                <i class="fas fa-mug-hot"></i>
+                <div class="logo-steam"></div>
+            </div>
+            <span>BREWVERSE</span>
+            <span class="premium-tag">✦ PREMIUM ✦</span>
+        </div>
+        <ul class="nav-menu">
+            <li><a href="#home" class="nav-item active">Home</a></li>
+            <li><a href="#indian" class="nav-item">Indian</a></li>
+            <li><a href="#korean" class="nav-item">Korean</a></li>
+            <li><a href="#world" class="nav-item">World</a></li>
+            <li><a href="#iced" class="nav-item">Iced</a></li>
+            <li><a href="#waffles" class="nav-item">Waffles</a></li>
+            <li><a href="#contact" class="nav-item">Visit</a></li>
+        </ul>
+        <div class="nav-actions">
+            <button class="glass-btn"><i class="fas fa-search"></i></button>
+            <button class="glass-btn"><i class="fas fa-shopping-bag"></i><span class="cart-count">0</span></button>
+            <div class="menu-toggle">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<!-- Cinematic Hero Section -->
+<section id="home" class="cinematic-hero">
+    <div class="hero-background">
+        <div class="hero-gradient"></div>
+        <div class="hero-pattern"></div>
+    </div>
+    
+    <!-- Animated Coffee Beans -->
+    <div class="floating-beans-container">
+        <div class="bean bean-1"><i class="fas fa-coffee"></i></div>
+        <div class="bean bean-2"><i class="fas fa-coffee"></i></div>
+        <div class="bean bean-3"><i class="fas fa-coffee"></i></div>
+        <div class="bean bean-4"><i class="fas fa-coffee"></i></div>
+        <div class="bean bean-5"><i class="fas fa-coffee"></i></div>
+        <div class="bean bean-6"><i class="fas fa-coffee"></i></div>
+        <div class="bean bean-7"><i class="fas fa-coffee"></i></div>
+        <div class="bean bean-8"><i class="fas fa-coffee"></i></div>
+    </div>
+
+    <!-- Steam Effects -->
+    <div class="hero-steam">
+        <div class="steam steam-1"></div>
+        <div class="steam steam-2"></div>
+        <div class="steam steam-3"></div>
+        <div class="steam steam-4"></div>
+    </div>
+
+    <div class="hero-container">
+        <div class="hero-content">
+            <div class="hero-badge">
+                <span class="badge-text">✦ CINEMATIC CAFÉ EXPERIENCE ✦</span>
+                <div class="badge-line"></div>
+            </div>
+            <h1 class="hero-title">
+                <span class="title-line">Crafted Coffee.</span>
+                <span class="title-line gradient-text">Cinematic Café Experience.</span>
+            </h1>
+            <p class="hero-subtitle">Discover premium coffees, handcrafted lattes, iced brews, and gourmet waffles inspired by cafés around the world.</p>
+            <div class="hero-stats">
+                <div class="stat">
+                    <span class="stat-number">100+</span>
+                    <span class="stat-label">Premium Coffees</span>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat">
+                    <span class="stat-number">25+</span>
+                    <span class="stat-label">Gourmet Waffles</span>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat">
+                    <span class="stat-number">15+</span>
+                    <span class="stat-label">Global Origins</span>
+                </div>
+            </div>
+            <div class="hero-buttons">
+                <a href="#indian" class="premium-btn primary">Explore Menu <i class="fas fa-arrow-right"></i></a>
+                <a href="#commercial" class="premium-btn secondary">Watch Story <i class="fas fa-play"></i></a>
+                <a href="#waffles" class="premium-btn tertiary">Order Now <i class="fas fa-shopping-cart"></i></a>
+            </div>
+        </div>
+        <div class="hero-showcase">
+            <div class="showcase-card">
+                <img src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085" alt="Premium Coffee" class="showcase-img">
+                <div class="showcase-glow"></div>
+                <div class="showcase-steam"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="scroll-indicator">
+        <span>Swipe to Explore</span>
+        <div class="scroll-mouse">
+            <div class="scroll-wheel"></div>
+        </div>
+    </div>
+</section>
+
+<!-- Category Filter Strip -->
+<div class="category-strip">
+    <div class="category-container">
+        <button class="category-btn active" data-category="all">All Coffees</button>
+        <button class="category-btn" data-category="indian">🇮🇳 Indian Specials</button>
+        <button class="category-btn" data-category="korean">🇰🇷 Korean Café</button>
+        <button class="category-btn" data-category="world">🌍 World Classics</button>
+        <button class="category-btn" data-category="iced">❄️ Iced Collection</button>
+        <button class="category-btn" data-category="waffles">🧇 Gourmet Waffles</button>
+    </div>
+</div>
+
+<!-- Indian Coffee Collection -->
+<section id="indian" class="premium-section" data-category-section="indian">
+    <div class="container">
+        <div class="section-header">
+            <div class="header-icon"><i class="fas fa-flag-checkered"></i></div>
+            <span class="section-tag">Authentic & Traditional</span>
+            <h2>Indian Coffee Collection</h2>
+            <div class="header-divider"></div>
+            <p>From the hills of Coorg to the streets of Chennai — authentic Indian brews crafted with centuries-old traditions</p>
+        </div>
+        <div class="coffee-grid" id="indianGrid"></div>
+    </div>
+</section>
+
+<!-- Premium Commercial Ad Section -->
+<section id="commercial" class="commercial-cinema">
+    <div class="commercial-bg-gradient"></div>
+    <div class="commercial-particles">
+        <div class="c-particle"></div>
+        <div class="c-particle"></div>
+        <div class="c-particle"></div>
+        <div class="c-particle"></div>
+        <div class="c-particle"></div>
+    </div>
+    <div class="commercial-container">
+        <div class="commercial-content">
+            <div class="commercial-badge">
+                <i class="fas fa-crown"></i> Limited Collection
+            </div>
+            <h2 class="commercial-title">
+                <span>Crafted for</span>
+                <span class="gradient-text">Unforgettable Moments</span>
+            </h2>
+            <p class="commercial-desc">Premium coffee. Gourmet waffles. Global café experience. Every sip tells a story of passion, craftsmanship, and luxury.</p>
+            <div class="commercial-features">
+                <div class="c-feature"><i class="fas fa-check-circle"></i> Single Origin Beans</div>
+                <div class="c-feature"><i class="fas fa-check-circle"></i> Artisan Roasted</div>
+                <div class="c-feature"><i class="fas fa-check-circle"></i> Korean Café Style</div>
+                <div class="c-feature"><i class="fas fa-check-circle"></i> Premium Waffles</div>
+                <div class="c-feature"><i class="fas fa-check-circle"></i> Worldwide Shipping</div>
+                <div class="c-feature"><i class="fas fa-check-circle"></i> 24/7 Café Service</div>
+            </div>
+            <div class="commercial-buttons">
+                <button class="commercial-btn primary">Order Now <i class="fas fa-arrow-right"></i></button>
+                <button class="commercial-btn secondary">Explore Collection <i class="fas fa-search"></i></button>
+            </div>
+        </div>
+        <div class="commercial-showcase">
+            <div class="cinematic-cup">
+                <div class="cup-glow"></div>
+                <i class="fas fa-mug-hot"></i>
+                <div class="cup-steam">
+                    <span></span><span></span><span></span><span></span>
+                </div>
+                <div class="coffee-pour"></div>
+            </div>
+            <div class="waffle-float">
+                <img src="https://images.unsplash.com/photo-1562376552-0d160a2f238d" alt="Premium Waffle">
+                <div class="chocolate-drip"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Korean Coffee Collection -->
+<section id="korean" class="premium-section alt-bg" data-category-section="korean">
+    <div class="container">
+        <div class="section-header">
+            <div class="header-icon"><i class="fas fa-leaf"></i></div>
+            <span class="section-tag">Trendy & Aesthetic</span>
+            <h2>Korean Café Collection</h2>
+            <div class="header-divider"></div>
+            <p>Viral dalgona, creamy einspänner, and unique Korean favorites from Seoul's finest cafés</p>
+        </div>
+        <div class="coffee-grid" id="koreanGrid"></div>
+    </div>
+</section>
+
+<!-- World Coffee Collection -->
+<section id="world" class="premium-section" data-category-section="world">
+    <div class="container">
+        <div class="section-header">
+            <div class="header-icon"><i class="fas fa-globe"></i></div>
+            <span class="section-tag">Classic & Iconic</span>
+            <h2>World Famous Coffee Collection</h2>
+            <div class="header-divider"></div>
+            <p>From Italian espresso to Turkish coffee — global favorites from every corner of the world</p>
+        </div>
+        <div class="coffee-grid" id="worldGrid"></div>
+    </div>
+</section>
+
+<!-- Iced Coffee Collection -->
+<section id="iced" class="premium-section alt-bg" data-category-section="iced">
+    <div class="container">
+        <div class="section-header">
+            <div class="header-icon"><i class="fas fa-snowflake"></i></div>
+            <span class="section-tag">Chill & Refresh</span>
+            <h2>Iced Coffee Collection</h2>
+            <div class="header-divider"></div>
+            <p>Refreshing cold brews, frappés, and iced lattes perfect for any season</p>
+        </div>
+        <div class="coffee-grid" id="icedGrid"></div>
+    </div>
+</section>
+
+<!-- Premium Waffle Section -->
+<section id="waffles" class="waffle-luxury" data-category-section="waffles">
+    <div class="container">
+        <div class="section-header">
+            <div class="header-icon"><i class="fas fa-utensils"></i></div>
+            <span class="section-tag">Luxury Dessert Collection</span>
+            <h2>Signature Gourmet Waffles</h2>
+            <div class="header-divider"></div>
+            <p>Perfect pairings for your premium coffee experience — crispy outside, fluffy inside</p>
+        </div>
+        <div class="waffle-grid" id="wafflesGrid"></div>
+    </div>
+</section>
+
+<!-- Premium Combos Section -->
+<section class="premium-section">
+    <div class="container">
+        <div class="section-header">
+            <div class="header-icon"><i class="fas fa-gift"></i></div>
+            <span class="section-tag">Save More</span>
+            <h2>Premium Combo Offers</h2>
+            <div class="header-divider"></div>
+            <p>Perfect pairings for every mood — coffee + waffle combinations crafted by our experts</p>
+        </div>
+        <div class="combos-grid" id="combosGrid"></div>
+    </div>
+</section>
+
+<!-- Contact & Visit Section -->
+<section id="contact" class="contact-luxury">
+    <div class="container">
+        <div class="contact-grid">
+            <div class="contact-info">
+                <div class="contact-badge">✦ Visit Our Café ✦</div>
+                <h2>Brew Your Day<br>at BREWVERSE</h2>
+                <p>Experience handcrafted coffee culture from India, Korea, and around the world. Our café is designed for memorable moments.</p>
+                <div class="contact-details">
+                    <div class="contact-item"><i class="fas fa-map-marker-alt"></i><span>Brewverse HQ, Indiranagar, Bangalore - 560038</span></div>
+                    <div class="contact-item"><i class="fas fa-clock"></i><span>Mon-Sun: 8:00 AM – 11:00 PM</span></div>
+                    <div class="contact-item"><i class="fas fa-phone"></i><span>+91 98765 43210</span></div>
+                    <div class="contact-item"><i class="fas fa-envelope"></i><span>hello@brewverse.com</span></div>
+                </div>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
+                </div>
+            </div>
+            <div class="contact-form">
+                <h3>Reserve Your Table</h3>
+                <form id="contactForm">
+                    <div class="form-group">
+                        <input type="text" placeholder="Your Name" required>
+                        <i class="fas fa-user"></i>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" placeholder="Email Address" required>
+                        <i class="fas fa-envelope"></i>
+                    </div>
+                    <div class="form-group">
+                        <select>
+                            <option>Select Your Favorite Coffee</option>
+                            <option>Indian Filter Coffee</option>
+                            <option>Korean Dalgona</option>
+                            <option>Italian Espresso</option>
+                            <option>Iced Caramel Latte</option>
+                        </select>
+                        <i class="fas fa-coffee"></i>
+                    </div>
+                    <div class="form-group">
+                        <textarea rows="4" placeholder="Special Requests..."></textarea>
+                        <i class="fas fa-pen"></i>
+                    </div>
+                    <button type="submit" class="submit-btn">Send Message <i class="fas fa-paper-plane"></i></button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Premium Footer -->
+<footer class="premium-footer">
+    <div class="container">
+        <div class="footer-grid">
+            <div class="footer-brand">
+                <div class="footer-logo">
+                    <i class="fas fa-mug-hot"></i>
+                    <span>BREWVERSE</span>
+                </div>
+                <p>Crafted Coffee. Cinematic Café Experience.<br>Every cup tells a story. Every waffle creates a memory.</p>
+                <div class="footer-badge">
+                    <i class="fas fa-crown"></i> Premium Craft Coffee
+                </div>
+            </div>
+            <div class="footer-links">
+                <h4>Explore</h4>
+                <a href="#home">Home</a>
+                <a href="#indian">Indian Specials</a>
+                <a href="#korean">Korean Café</a>
+                <a href="#waffles">Gourmet Waffles</a>
+            </div>
+            <div class="footer-links">
+                <h4>Support</h4>
+                <a href="#">FAQs</a>
+                <a href="#">Shipping Policy</a>
+                <a href="#">Returns</a>
+                <a href="#">Contact Us</a>
+            </div>
+            <div class="footer-newsletter">
+                <h4>Brew News</h4>
+                <p>Subscribe for premium coffee updates</p>
+                <div class="newsletter-group">
+                    <input type="email" placeholder="Your email" id="newsletterEmail">
+                    <button id="newsletterBtn"><i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 BREWVERSE — Cinematic Global Café Experience</p>
+        </div>
+    </div>
+</footer>
+
+<!-- Luxury Coffee Modal -->
+<div class="luxury-modal" id="coffeeModal">
+    <div class="modal-overlay"></div>
+    <div class="modal-container">
+        <button class="modal-close" id="modalClose"><i class="fas fa-times"></i></button>
+        <div class="modal-inner" id="modalInner"></div>
+    </div>
+</div> 
+// ========== LOADER ==========
+window.addEventListener('load', () => {
+    const loader = document.querySelector('.premium-loader');
+    setTimeout(() => {
+        loader.classList.add('fade-out');
+    }, 2000);
+});
+
+// ========== CUSTOM CURSOR ==========
+const cursorDot = document.querySelector('.cursor-dot');
+const cursorRing = document.querySelector('.cursor-ring');
+
+if (cursorDot && cursorRing) {
+    document.addEventListener('mousemove', (e) => {
+        cursorDot.style.transform = `translate(${e.clientX - 3}px, ${e.clientY - 3}px)`;
+        cursorRing.style.transform = `translate(${e.clientX - 20}px, ${e.clientY - 20}px)`;
+    });
+
+    document.querySelectorAll('a, button, .coffee-card, .waffle-card, .combo-card, .category-btn').forEach(el => {
+        el.addEventListener('mouseenter', () => {
+            cursorRing.style.transform = 'scale(1.5)';
+            cursorRing.style.borderColor = 'var(--gold)';
+        });
+        el.addEventListener('mouseleave', () => {
+            cursorRing.style.transform = 'scale(1)';
+        });
+    });
+}
+
+// ========== SCROLL REVEAL ==========
+const revealElements = document.querySelectorAll('.premium-section, .waffle-luxury, .contact-luxury, .commercial-cinema');
+
+const revealOnScroll = () => {
+    revealElements.forEach(element => {
+        const windowHeight = window.innerHeight;
+        const revealTop = element.getBoundingClientRect().top;
+        const revealPoint = 150;
+        
+        if (revealTop < windowHeight - revealPoint) {
+            element.style.opacity = '1';
+            element.style.transform = 'translateY(0)';
+        }
+    });
+};
+
+revealElements.forEach(el => {
+    el.style.opacity = '0';
+    el.style.transform = 'translateY(50px)';
+    el.style.transition = 'all 0.8s ease';
+});
+
+window.addEventListener('scroll', revealOnScroll);
+revealOnScroll();
+
+// ========== CATEGORY FILTER ==========
+const categoryBtns = document.querySelectorAll('.category-btn');
+const sections = {
+    indian: document.getElementById('indian'),
+    korean: document.getElementById('korean'),
+    world: document.getElementById('world'),
+    iced: document.getElementById('iced'),
+    waffles: document.getElementById('waffles')
+};
+
+categoryBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+        const category = btn.dataset.category;
+        
+        categoryBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        
+        if (category === 'all') {
+            Object.values(sections).forEach(section => {
+                if (section) section.style.display = 'block';
+            });
+        } else {
+            Object.entries(sections).forEach(([key, section]) => {
+                if (section) {
+                    section.style.display = key === category ? 'block' : 'none';
+                }
+            });
+        }
+    });
+});
+
+// ========== INDIAN COFFEES ==========
+const indianCoffees = [
+    { id: 1, name: "South Indian Filter Coffee", origin: "Tamil Nadu", taste: "Bold, Creamy, Rich", ingredients: "Coffee decoction, Boiled milk", bestWith: "Masala Dosa", caffeine: "Medium-High", sweetness: "Medium", image: "https://images.unsplash.com/photo-1517705008128-361805f42e86", description: "Authentic South Indian-style strong coffee prepared using traditional metal filter brewing with frothy milk." },
+    { id: 2, name: "Malabar Monsoon Coffee", origin: "Kerala", taste: "Smooth, Low-acidity", ingredients: "Monsooned beans", bestWith: "Dark Chocolate Cake", caffeine: "Medium", sweetness: "Low", image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085", description: "Smooth coffee made from monsoon-aged beans from Kerala coast." },
+    { id: 3, name: "Cardamom Coffee", origin: "India", taste: "Fragrant, Warm", ingredients: "Cardamom, Coffee", bestWith: "Baklava", caffeine: "Medium", sweetness: "Low", image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93", description: "Traditional Indian coffee infused with cardamom spice." },
+    
+];
+
+// ========== KOREAN COFFEES ==========
+const koreanCoffees = [
+    { id: 5, name: "Dalgona Coffee", origin: "Korea", taste: "Sweet, Fluffy", ingredients: "Instant coffee, Sugar, Milk", bestWith: "Korean Garlic Bread", caffeine: "Medium", sweetness: "High", image: "https://images.unsplash.com/photo-1587734195503-904fca47e0e9", description: "Whipped creamy coffee layered over chilled milk — viral Korean favorite!" },
+    { id: 6, name: "Korean Café Latte", origin: "Korea", taste: "Smooth, Creamy", ingredients: "Espresso, Milk", bestWith: "Cheesecake", caffeine: "Medium", sweetness: "Medium", image: "https://images.unsplash.com/photo-1554118811-1e0d58224f24", description: "Traditional Korean café style latte with aesthetic presentation." },
+    { id: 7, name: "Matcha Latte", origin: "Korea/Japan", taste: "Earthy, Smooth", ingredients: "Matcha powder, Milk", bestWith: "Mochi Donuts", caffeine: "Medium", sweetness: "Medium", image: "https://images.unsplash.com/photo-1515823064-d6e0c04616a7", description: "Premium Korean-style matcha latte." }
+];
+
+// ========== WORLD COFFEES ==========
+const worldCoffees = [
+    { id: 8, name: "Espresso", origin: "Italy", taste: "Bold, Strong", ingredients: "Fine coffee beans", bestWith: "Biscotti", caffeine: "High", sweetness: "Low", image: "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd", description: "Strong concentrated coffee shot with bold aroma." },
+    { id: 9, name: "Cappuccino", origin: "Italy", taste: "Creamy, Balanced", ingredients: "Espresso, Steamed milk, Foam", bestWith: "Cinnamon Roll", caffeine: "Medium", sweetness: "Medium", image: "https://images.unsplash.com/photo-1497636577773-f1231844b336", description: "Classic coffee with balanced espresso, steamed milk, and foam." },
+    { id: 10, name: "Café Latte", origin: "Italy", taste: "Creamy, Smooth", ingredients: "Espresso, Steamed milk", bestWith: "Pancakes", caffeine: "Medium", sweetness: "Medium", image: "https://images.unsplash.com/photo-1461023058943-07fcbe16d735", description: "Creamy milk-forward espresso coffee." },
+    { id: 11, name: "Mocha", origin: "Yemen/Italy", taste: "Chocolatey", ingredients: "Espresso, Chocolate, Milk", bestWith: "Brownies", caffeine: "Medium", sweetness: "High", image: "https://images.unsplash.com/photo-1578314675249-a6910f80cc4e", description: "Chocolate-infused espresso delight." },
+    { id: 12, name: "Affogato", origin: "Italy", taste: "Sweet, Bitter", ingredients: "Vanilla ice cream, Espresso", bestWith: "Chocolate Wafers", caffeine: "Medium", sweetness: "High", image: "https://images.unsplash.com/photo-1561882468-9110e03e0f78", description: "Vanilla ice cream topped with hot espresso." },
+    { id: 13, name: "Turkish Coffee", origin: "Turkey", taste: "Strong, Rich", ingredients: "Finely ground coffee", bestWith: "Baklava", caffeine: "High", sweetness: "Low", image: "https://images.unsplash.com/photo-1511920170033-f8396924c348", description: "Traditional finely brewed rich coffee served unfiltered." }
+];
+
+// ========== ICED COFFEES ==========
+const icedCoffees = [
+    { id: 14, name: "Iced Latte", origin: "Global", taste: "Smooth, Refreshing", ingredients: "Espresso, Cold milk, Ice", bestWith: "Grilled Sandwich", caffeine: "Medium", sweetness: "Medium", image: "https://images.unsplash.com/photo-1517701604599-bb29b565090c", description: "Cold milk and espresso served over ice." },
+    { id: 15, name: "Cold Brew", origin: "Global", taste: "Smooth, Low-acid", ingredients: "Slow-steeped coffee", bestWith: "Cheese Toast", caffeine: "High", sweetness: "Low", image: "https://images.unsplash.com/photo-1517256064527-09c73fc73e38", description: "Slow-brewed coffee with naturally smooth taste." },
+    { id: 16, name: "Frappé", origin: "Greece", taste: "Icy, Creamy", ingredients: "Instant coffee, Ice, Milk", bestWith: "Chocolate Waffles", caffeine: "Medium", sweetness: "Medium", image: "https://images.unsplash.com/photo-1512568400610-62da28bc8a13", description: "Blended icy coffee with creamy foam." }
+];
+
+// ========== WAFFLES ==========
+const waffles = [
+    { id: 17, name: "Belgian Chocolate Waffle", taste: "Chocolatey, Crispy", bestWith: "Cappuccino", image: "https://images.unsplash.com/photo-1562376552-0d160a2f238d", description: "Loaded with melted premium Belgian chocolate." },
+    { id: 18, name: "Nutella Waffle", taste: "Nutty, Sweet", bestWith: "Hazelnut Latte", image: "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0", description: "Crispy waffle topped with Nutella and nuts." },
+    { id: 19, name: "Strawberry Waffle", taste: "Fruity, Creamy", bestWith: "Vanilla Latte", image: "https://images.unsplash.com/photo-1488477181946-6428a0291777", description: "Fresh strawberries with whipped cream." },
+    
+];
+
+// ========== COMBOS ==========
+const combos = [
+    { name: "Morning Combo", items: "Filter Coffee + Butter Toast + Mini Waffle", price: "₹299", image: "https://images.unsplash.com/photo-1517705008128-361805f42e86" },
+    { name: "Korean Café Combo", items: "Dalgona Coffee + Croffle + Cheesecake", price: "₹399", image: "https://images.unsplash.com/photo-1587734195503-904fca47e0e9" },
+    { name: "Chocolate Lovers Combo", items: "Mocha + Oreo Waffle + Brownie", price: "₹449", image: "https://images.unsplash.com/photo-1578314675249-a6910f80cc4e" }
+];
+
+// Render stars
+function renderStars() {
+    return '⭐'.repeat(5);
+}
+
+// Render function
+function renderGrid(containerId, items, type) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+    
+    container.innerHTML = items.map(item => `
+        <div class="${type === 'waffle' ? 'waffle-card' : 'coffee-card'}" onclick='showDetail(${JSON.stringify(item).replace(/'/g, "&#39;")}, "${type}")'>
+            <div class="card-rating">${renderStars()}</div>
+            <img src="${item.image}" alt="${item.name}" class="${type === 'waffle' ? 'waffle-img' : 'coffee-img'}" loading="lazy">
+            <div class="${type === 'waffle' ? 'waffle-info' : 'coffee-info'}">
+                <h3 class="coffee-name">${item.name}</h3>
+                <span class="coffee-badge">${item.bestWith?.split(',')[0] || 'Perfect Pair'}</span>
+                <p style="font-size:0.8rem; opacity:0.7; margin-top:0.5rem;">${item.taste || ''}</p>
+            </div>
+        </div>
+    `).join('');
+}
+
+// Show detail modal
+function showDetail(item, type) {
+    const modal = document.getElementById('coffeeModal');
+    const inner = document.getElementById('modalInner');
+    
+    if (type === 'coffee') {
+        inner.innerHTML = `
+            <img src="${item.image}" class="modal-img" loading="lazy">
+            <h2>☕ ${item.name}</h2>
+            <div class="detail-grid" style="display:grid; grid-template-columns:1fr 1fr; gap:0.8rem; margin:1.5rem 0; background:rgba(255,255,255,0.05); padding:1rem; border-radius:15px;">
+                <div><strong>📍 Origin:</strong> ${item.origin || 'Global'}</div>
+                <div><strong>👅 Taste:</strong> ${item.taste || 'Rich'}</div>
+                <div><strong>🥛 Best With:</strong> ${item.bestWith}</div>
+                <div><strong>⚡ Caffeine:</strong> ${item.caffeine || 'Medium'}</div>
+                <div><strong>🍬 Sweetness:</strong> ${item.sweetness || 'Medium'}</div>
+                <div><strong>⭐ Rating:</strong> ${renderStars()}</div>
+            </div>
+            <p><strong>📝 Description:</strong> ${item.description}</p>
+            <p><strong>🥄 Ingredients:</strong> ${item.ingredients || 'Premium coffee beans'}</p>
+            <div style="margin-top:1.5rem; display:flex; gap:1rem;">
+                <button class="premium-btn primary" style="padding:0.8rem 1.5rem;">Add to Cart 🛒</button>
+                <button class="premium-btn secondary" style="padding:0.8rem 1.5rem;">Order Now 🚀</button>
+            </div>
+        `;
+    } else if (type === 'waffle') {
+        inner.innerHTML = `
+            <img src="${item.image}" class="modal-img" loading="lazy">
+            <h2>🧇 ${item.name}</h2>
+            <div class="detail-grid" style="display:grid; grid-template-columns:1fr 1fr; gap:0.8rem; margin:1.5rem 0; background:rgba(255,255,255,0.05); padding:1rem; border-radius:15px;">
+                <div><strong>👅 Taste:</strong> ${item.taste}</div>
+                <div><strong>☕ Coffee Pairing:</strong> ${item.bestWith}</div>
+                <div><strong>⭐ Rating:</strong> ${renderStars()}</div>
+            </div>
+            <p><strong>📝 Description:</strong> ${item.description}</p>
+            <p><strong>🍦 Add-ons:</strong> Vanilla Ice Cream, Nutella, Maple Syrup</p>
+            <div style="margin-top:1.5rem; display:flex; gap:1rem;">
+                <button class="premium-btn primary" style="padding:0.8rem 1.5rem;">Order Waffle 🧇</button>
+                <button class="premium-btn secondary" style="padding:0.8rem 1.5rem;">Add Coffee ☕</button>
+            </div>
+        `;
+    } else if (type === 'combo') {
+        inner.innerHTML = `
+            <img src="${item.image}" class="modal-img">
+            <h2>✨ ${item.name}</h2>
+            <p><strong>Includes:</strong> ${item.items}</p>
+            <p><strong>Price:</strong> ${item.price}</p>
+            <button class="premium-btn primary" style="margin-top:1.5rem; padding:0.8rem 1.5rem;">Order Combo Now 🎁</button>
+        `;
+    }
+    
+    modal.classList.add('active');
+    document.body.style.overflow = 'hidden';
+}
+
+// Render all sections
+renderGrid('indianGrid', indianCoffees, 'coffee');
+renderGrid('koreanGrid', koreanCoffees, 'coffee');
+renderGrid('worldGrid', worldCoffees, 'coffee');
+renderGrid('icedGrid', icedCoffees, 'coffee');
+renderGrid('wafflesGrid', waffles, 'waffle');
+renderGrid('combosGrid', combos, 'combo');
+
+// Modal close
+document.getElementById('modalClose')?.addEventListener('click', () => {
+    document.getElementById('coffeeModal').classList.remove('active');
+    document.body.style.overflow = 'auto';
+});
+
+document.getElementById('coffeeModal')?.addEventListener('click', (e) => {
+    if (e.target.classList.contains('luxury-modal')) {
+        document.getElementById('coffeeModal').classList.remove('active');
+        document.body.style.overflow = 'auto';
+    }
+});
+
+// Mobile menu
+document.querySelector('.menu-toggle')?.addEventListener('click', () => {
+    document.querySelector('.nav-menu')?.classList.toggle('active');
+});
+
+// Smooth scroll
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+            target.scrollIntoView({ behavior: 'smooth' });
+            document.querySelector('.nav-menu')?.classList.remove('active');
+        }
+    });
+});
+
+// Contact form
+document.getElementById('contactForm')?.addEventListener('submit', (e) => {
+    e.preventDefault();
+    alert('✨ Welcome to BREWVERSE! Your premium café experience awaits. ✨');
+    e.target.reset();
+});
+
+// Newsletter
+document.getElementById('newsletterBtn')?.addEventListener('click', () => {
+    const email = document.getElementById('newsletterEmail')?.value;
+    if (email) {
+        alert(`📧 Welcome to BREWVERSE! Premium updates sent to ${email}`);
+    } else {
+        alert('Please enter your email');
+    }
+});
+
+// Navbar scroll effect
+window.addEventListener('scroll', () => {
+    const nav = document.querySelector('.glass-nav');
+    if (window.scrollY > 50) {
+        nav.style.background = 'rgba(13, 13, 13, 0.95)';
+        nav.style.backdropFilter = 'blur(20px)';
+    } else {
+        nav.style.background = 'rgba(13, 13, 13, 0.8)';
+    }
+});
+
+console.log('✨ BREWVERSE Premium — Cinematic Global Café Experience Loaded! ✨'); 
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: #C8A27A;
+    --primary-dark: #A67C52;
+    --secondary: #E8D5B5;
+    --dark: #1A1A1A;
+    --dark-bg: #0D0D0D;
+    --light: #F5F0E8;
+    --gold: #D4AF37;
+    --gold-dark: #B8960C;
+    --glass-bg: rgba(255, 255, 255, 0.05);
+    --glass-border: rgba(255, 255, 255, 0.1);
+    --shadow-sm: 0 5px 20px rgba(0, 0, 0, 0.2);
+    --shadow-md: 0 10px 30px rgba(0, 0, 0, 0.3);
+    --shadow-lg: 0 20px 50px rgba(0, 0, 0, 0.4);
+    --shadow-xl: 0 30px 70px rgba(0, 0, 0, 0.5);
+    --transition: all 0.6s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--dark-bg);
+    color: #fff;
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+h1, h2, h3, .logo {
+    font-family: 'Playfair Display', serif;
+}
+
+/* ========== PREMIUM LOADER ========== */
+.premium-loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #0D0D0D;
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.8s ease;
+}
+
+.premium-loader.fade-out {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.loader-container {
+    text-align: center;
+    position: relative;
+}
+
+.loader-ring {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 2px solid transparent;
+    border-top-color: var(--gold);
+    animation: spin 1s linear infinite;
+}
+
+.loader-ring:nth-child(2) {
+    width: 140px;
+    height: 140px;
+    border-top-color: var(--primary);
+    animation-duration: 1.5s;
+}
+
+.loader-ring:nth-child(3) {
+    width: 160px;
+    height: 160px;
+    border-top-color: var(--secondary);
+    animation-duration: 2s;
+}
+
+@keyframes spin {
+    0% { transform: translate(-50%, -50%) rotate(0deg); }
+    100% { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
+.loader-cup {
+    position: relative;
+    z-index: 10;
+    font-size: 3rem;
+    color: var(--gold);
+    animation: pulse 1s ease infinite;
+}
+
+.loader-text {
+    margin-top: 100px;
+    font-size: 0.8rem;
+    letter-spacing: 4px;
+    font-weight: 300;
+}
+
+.loader-progress {
+    width: 200px;
+    height: 2px;
+    background: rgba(255,255,255,0.1);
+    margin-top: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.progress-bar {
+    width: 0%;
+    height: 100%;
+    background: linear-gradient(90deg, var(--gold), var(--primary));
+    animation: progress 2s ease forwards;
+}
+
+@keyframes progress {
+    0% { width: 0%; }
+    100% { width: 100%; }
+}
+
+/* ========== LUXURY CURSOR ========== */
+.luxury-cursor {
+    position: fixed;
+    pointer-events: none;
+    z-index: 10000;
+}
+
+.cursor-dot {
+    width: 6px;
+    height: 6px;
+    background: var(--gold);
+    border-radius: 50%;
+    position: fixed;
+    transition: transform 0.05s ease;
+}
+
+.cursor-ring {
+    width: 40px;
+    height: 40px;
+    border: 2px solid var(--gold);
+    border-radius: 50%;
+    position: fixed;
+    transition: all 0.15s ease;
+    backdrop-filter: blur(2px);
+}
+
+/* ========== FLOATING PARTICLES ========== */
+.floating-particles {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 0;
+}
+
+.particle {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    background: var(--gold);
+    border-radius: 50%;
+    opacity: 0.3;
+    animation: floatParticle 20s infinite linear;
+}
+
+.particle:nth-child(1) { top: 10%; left: 5%; animation-duration: 12s; }
+.particle:nth-child(2) { top: 20%; right: 10%; animation-duration: 15s; animation-delay: 2s; }
+.particle:nth-child(3) { bottom: 15%; left: 15%; animation-duration: 10s; }
+.particle:nth-child(4) { top: 60%; right: 20%; animation-duration: 18s; }
+.particle:nth-child(5) { bottom: 30%; left: 30%; animation-duration: 14s; }
+.particle:nth-child(6) { top: 40%; left: 80%; animation-duration: 16s; }
+.particle:nth-child(7) { top: 70%; left: 45%; animation-duration: 11s; }
+.particle:nth-child(8) { bottom: 50%; right: 50%; animation-duration: 13s; }
+.particle:nth-child(9) { top: 85%; left: 70%; animation-duration: 17s; }
+.particle:nth-child(10) { top: 15%; right: 40%; animation-duration: 19s; }
+
+@keyframes floatParticle {
+    0% { transform: translateY(0) translateX(0); opacity: 0; }
+    50% { opacity: 0.5; }
+    100% { transform: translateY(-200px) translateX(100px); opacity: 0; }
+}
+
+/* ========== GLASS NAVIGATION ========== */
+.glass-nav {
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    max-width: 1400px;
+    background: rgba(13, 13, 13, 0.8);
+    backdrop-filter: blur(20px);
+    border-radius: 80px;
+    z-index: 1000;
+    padding: 0.8rem 2rem;
+    transition: var(--transition);
+    border: 1px solid rgba(212, 163, 115, 0.2);
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.logo-icon {
+    position: relative;
+    font-size: 1.5rem;
+    color: var(--gold);
+}
+
+.logo-steam {
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 2px;
+    height: 10px;
+    background: rgba(255,255,255,0.5);
+    border-radius: 2px;
+    animation: steamRise 1.5s ease infinite;
+}
+
+@keyframes steamRise {
+    0% { transform: translateX(-50%) translateY(0); opacity: 0.5; height: 10px; }
+    100% { transform: translateX(-50%) translateY(-20px); opacity: 0; height: 20px; }
+}
+
+.logo span {
+    font-size: 1.2rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.premium-tag {
+    font-size: 0.7rem;
+    background: linear-gradient(135deg, var(--gold), var(--gold-dark));
+    padding: 0.2rem 0.6rem;
+    border-radius: 50px;
+    color: #0D0D0D;
+    font-weight: 700;
+}
+
+.nav-menu {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+.nav-item {
+    color: #fff;
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 500;
+    transition: var(--transition);
+    position: relative;
+}
+
+.nav-item::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--gold);
+    transition: width 0.3s ease;
+}
+
+.nav-item:hover::after,
+.nav-item.active::after {
+    width: 100%;
+}
+
+.nav-item:hover {
+    color: var(--gold);
+}
+
+.nav-actions {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.glass-btn {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.1);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: #fff;
+    cursor: pointer;
+    transition: var(--transition);
+    position: relative;
+}
+
+.glass-btn:hover {
+    background: var(--gold);
+    color: #0D0D0D;
+    border-color: var(--gold);
+}
+
+.cart-count {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background: var(--gold);
+    color: #0D0D0D;
+    font-size: 0.6rem;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+}
+
+.menu-toggle {
+    display: none;
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+
+/* ========== CINEMATIC HERO ========== */
+.cinematic-hero {
+    min-height: 100vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding: 120px 0 80px;
+}
+
+.hero-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.hero-gradient {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle at 30% 50%, rgba(212, 163, 115, 0.15), transparent 70%);
+}
+
+.hero-pattern {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" opacity="0.05"><path fill="none" stroke="%23D4AF37" stroke-width="0.5" d="M20,20 L80,20 M20,40 L80,40 M20,60 L80,60 M20,80 L80,80 M40,20 L40,80 M60,20 L60,80"/></svg>');
+}
+
+.floating-beans-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.bean {
+    position: absolute;
+    font-size: 1.5rem;
+    color: var(--gold);
+    opacity: 0.3;
+}
+
+.bean-1 { top: 15%; left: 5%; animation: floatBean 15s infinite; }
+.bean-2 { top: 25%; right: 8%; animation: floatBean 18s infinite 1s; }
+.bean-3 { bottom: 20%; left: 10%; animation: floatBean 12s infinite 2s; }
+.bean-4 { top: 50%; right: 15%; animation: floatBean 20s infinite 0.5s; }
+.bean-5 { bottom: 35%; left: 20%; animation: floatBean 14s infinite 3s; }
+.bean-6 { top: 70%; right: 25%; animation: floatBean 16s infinite 1.5s; }
+.bean-7 { bottom: 10%; right: 30%; animation: floatBean 22s infinite 2.5s; }
+.bean-8 { top: 85%; left: 40%; animation: floatBean 13s infinite 4s; }
+
+@keyframes floatBean {
+    0% { transform: translateY(0) rotate(0deg); }
+    50% { transform: translateY(-40px) rotate(180deg); }
+    100% { transform: translateY(0) rotate(360deg); }
+}
+
+.hero-steam {
+    position: absolute;
+    bottom: 20%;
+    left: 10%;
+    pointer-events: none;
+}
+
+.steam {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: radial-gradient(circle, rgba(255,255,255,0.1), transparent);
+    border-radius: 50%;
+    filter: blur(20px);
+    animation: steamFloat 4s ease infinite;
+}
+
+.steam-1 { bottom: 0; left: 0; animation-delay: 0s; }
+.steam-2 { bottom: 20px; left: 30px; animation-delay: 1s; width: 80px; height: 80px; }
+.steam-3 { bottom: 40px; left: 60px; animation-delay: 2s; width: 120px; height: 120px; }
+.steam-4 { bottom: 10px; left: 90px; animation-delay: 3s; width: 70px; height: 70px; }
+
+@keyframes steamFloat {
+    0% { transform: translateY(0) scale(1); opacity: 0.5; }
+    100% { transform: translateY(-100px) scale(2); opacity: 0; }
+}
+
+.hero-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: center;
+    position: relative;
+    z-index: 10;
+}
+
+.hero-badge {
+    margin-bottom: 1.5rem;
+}
+
+.badge-text {
+    font-size: 0.8rem;
+    letter-spacing: 4px;
+    font-weight: 300;
+}
+
+.badge-line {
+    width: 50px;
+    height: 1px;
+    background: var(--gold);
+    margin-top: 0.5rem;
+}
+
+.hero-title {
+    font-size: 4rem;
+    font-weight: 800;
+    line-height: 1.2;
+    margin-bottom: 1.5rem;
+}
+
+.title-line {
+    display: block;
+}
+
+.gradient-text {
+    background: linear-gradient(135deg, var(--gold), var(--primary));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.hero-subtitle {
+    font-size: 1rem;
+    opacity: 0.7;
+    margin-bottom: 2rem;
+    max-width: 500px;
+}
+
+.hero-stats {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.stat {
+    text-align: center;
+}
+
+.stat-number {
+    display: block;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--gold);
+}
+
+.stat-label {
+    font-size: 0.7rem;
+    opacity: 0.6;
+}
+
+.stat-divider {
+    width: 1px;
+    height: 40px;
+    background: rgba(255,255,255,0.2);
+}
+
+.hero-buttons {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.premium-btn {
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: var(--transition);
+    cursor: pointer;
+    border: none;
+    font-size: 0.9rem;
+}
+
+.premium-btn.primary {
+    background: linear-gradient(135deg, var(--gold), var(--gold-dark));
+    color: #0D0D0D;
+}
+
+.premium-btn.secondary {
+    background: transparent;
+    border: 2px solid var(--gold);
+    color: #fff;
+}
+
+.premium-btn.tertiary {
+    background: rgba(255,255,255,0.05);
+    backdrop-filter: blur(10px);
+    color: #fff;
+    border: 1px solid rgba(255,255,255,0.1);
+}
+
+.premium-btn:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(212, 163, 115, 0.3);
+}
+
+.hero-showcase {
+    position: relative;
+}
+
+.showcase-card {
+    position: relative;
+    border-radius: 30px;
+    overflow: hidden;
+    box-shadow: var(--shadow-xl);
+}
+
+.showcase-img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+.showcase-glow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle at center, rgba(212,163,115,0.2), transparent);
+    pointer-events: none;
+}
+
+.showcase-steam {
+    position: absolute;
+    bottom: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 150px;
+    height: 100px;
+    background: radial-gradient(ellipse, rgba(255,255,255,0.15), transparent);
+    filter: blur(15px);
+    animation: steamPulse 3s ease infinite;
+}
+
+@keyframes steamPulse {
+    0%, 100% { opacity: 0.5; transform: translateX(-50%) scale(1); }
+    50% { opacity: 1; transform: translateX(-50%) scale(1.2); }
+}
+
+.scroll-indicator {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    z-index: 10;
+}
+
+.scroll-indicator span {
+    display: block;
+    font-size: 0.7rem;
+    margin-bottom: 10px;
+    opacity: 0.6;
+}
+
+.scroll-mouse {
+    width: 26px;
+    height: 40px;
+    border: 2px solid rgba(255,255,255,0.3);
+    border-radius: 20px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.scroll-wheel {
+    width: 4px;
+    height: 8px;
+    background: var(--gold);
+    border-radius: 2px;
+    position: absolute;
+    top: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    animation: scrollWheel 2s infinite;
+}
+
+@keyframes scrollWheel {
+    0% { transform: translateX(-50%) translateY(0); opacity: 1; }
+    100% { transform: translateX(-50%) translateY(15px); opacity: 0; }
+}
+
+/* ========== CATEGORY STRIP ========== */
+.category-strip {
+    position: sticky;
+    top: 90px;
+    background: rgba(13, 13, 13, 0.9);
+    backdrop-filter: blur(20px);
+    padding: 1rem 0;
+    z-index: 99;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
+.category-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 5%;
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+    scrollbar-width: none;
+}
+
+.category-container::-webkit-scrollbar {
+    display: none;
+}
+
+.category-btn {
+    padding: 0.5rem 1.2rem;
+    background: transparent;
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 50px;
+    color: #fff;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: var(--transition);
+    white-space: nowrap;
+}
+
+.category-btn:hover,
+.category-btn.active {
+    background: var(--gold);
+    color: #0D0D0D;
+    border-color: var(--gold);
+}
+
+/* ========== PREMIUM SECTIONS ========== */
+.premium-section {
+    padding: 80px 0;
+}
+
+.alt-bg {
+    background: linear-gradient(135deg, #0D0D0D, #1A1A1A);
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 5%;
+}
+
+.section-header {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.header-icon {
+    font-size: 2rem;
+    color: var(--gold);
+    margin-bottom: 1rem;
+}
+
+.section-tag {
+    display: inline-block;
+    background: rgba(212, 163, 115, 0.1);
+    padding: 0.3rem 1rem;
+    border-radius: 50px;
+    font-size: 0.7rem;
+    letter-spacing: 2px;
+    margin-bottom: 1rem;
+}
+
+.section-header h2 {
+    font-size: 2.8rem;
+    margin-bottom: 1rem;
+}
+
+.header-divider {
+    width: 60px;
+    height: 2px;
+    background: linear-gradient(90deg, var(--gold), transparent);
+    margin: 1rem auto;
+}
+
+.section-header p {
+    opacity: 0.6;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* ========== PREMIUM CARDS ========== */
+.coffee-card, .waffle-card, .combo-card {
+    background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02));
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 28px;
+    overflow: hidden;
+    transition: var(--transition);
+    cursor: pointer;
+    position: relative;
+}
+
+.coffee-card::before, .waffle-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle at 50% 0%, rgba(212,163,115,0.1), transparent);
+    opacity: 0;
+    transition: var(--transition);
+}
+
+.coffee-card:hover::before, .waffle-card:hover::before {
+    opacity: 1;
+}
+
+.coffee-card:hover, .waffle-card:hover {
+    transform: translateY(-15px);
+    border-color: rgba(212, 163, 115, 0.3);
+    box-shadow: var(--shadow-xl);
+}
+
+.coffee-img, .waffle-img {
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+    transition: transform 0.7s ease;
+}
+
+.coffee-card:hover .coffee-img,
+.waffle-card:hover .waffle-img {
+    transform: scale(1.08);
+}
+
+.card-rating {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: rgba(0,0,0,0.6);
+    backdrop-filter: blur(5px);
+    padding: 0.3rem 0.6rem;
+    border-radius: 50px;
+    font-size: 0.7rem;
+    z-index: 2;
+}
+
+.coffee-info, .waffle-info {
+    padding: 1.5rem;
+}
+
+.coffee-name {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.coffee-badge {
+    display: inline-block;
+    background: rgba(212, 163, 115, 0.2);
+    padding: 0.2rem 0.8rem;
+    border-radius: 50px;
+    font-size: 0.7rem;
+    margin: 0.5rem 0;
+}
+
+/* ========== COMMERCIAL CINEMA SECTION ========== */
+.commercial-cinema {
+    position: relative;
+    padding: 100px 0;
+    background: linear-gradient(135deg, #1A1A1A, #0D0D0D);
+    overflow: hidden;
+}
+
+.commercial-bg-gradient {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle at 70% 30%, rgba(212,163,115,0.2), transparent 70%);
+}
+
+.commercial-particles {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.c-particle {
+    position: absolute;
+    width: 4px;
+    height: 4px;
+    background: var(--gold);
+    border-radius: 50%;
+    opacity: 0.5;
+    animation: particleDrift 8s infinite linear;
+}
+
+.c-particle:nth-child(1) { top: 20%; left: 10%; animation-duration: 6s; }
+.c-particle:nth-child(2) { top: 60%; right: 15%; animation-duration: 8s; }
+.c-particle:nth-child(3) { top: 40%; left: 80%; animation-duration: 7s; }
+.c-particle:nth-child(4) { bottom: 20%; left: 30%; animation-duration: 9s; }
+.c-particle:nth-child(5) { top: 70%; right: 40%; animation-duration: 5s; }
+
+@keyframes particleDrift {
+    0% { transform: translateY(0) translateX(0); opacity: 0; }
+    50% { opacity: 0.5; }
+    100% { transform: translateY(-100px) translateX(50px); opacity: 0; }
+}
+
+.commercial-container {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: center;
+    position: relative;
+    z-index: 10;
+}
+
+.commercial-badge {
+    display: inline-block;
+    background: linear-gradient(135deg, var(--gold), var(--gold-dark));
+    padding: 0.3rem 1rem;
+    border-radius: 50px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: #0D0D0D;
+}
+
+.commercial-title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1.2;
+    margin-bottom: 1.5rem;
+}
+
+.commercial-desc {
+    opacity: 0.7;
+    margin-bottom: 2rem;
+}
+
+.commercial-features {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.c-feature {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    font-size: 0.9rem;
+}
+
+.c-feature i {
+    color: var(--gold);
+}
+
+.commercial-buttons {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.commercial-btn {
+    padding: 0.8rem 1.8rem;
+    border-radius: 50px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: var(--transition);
+    border: none;
+}
+
+.commercial-btn.primary {
+    background: linear-gradient(135deg, var(--gold), var(--gold-dark));
+    color: #0D0D0D;
+}
+
+.commercial-btn.secondary {
+    background: transparent;
+    border: 2px solid var(--gold);
+    color: #fff;
+}
+
+.commercial-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+}
+
+.commercial-showcase {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cinematic-cup {
+    position: relative;
+    font-size: 8rem;
+    color: var(--gold);
+    animation: cupFloat 3s ease infinite;
+}
+
+@keyframes cupFloat {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-15px); }
+}
+
+.cup-glow {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 150px;
+    height: 150px;
+    background: radial-gradient(circle, rgba(212,163,115,0.3), transparent);
+    border-radius: 50%;
+    filter: blur(20px);
+}
+
+.cup-steam {
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 8px;
+}
+
+.cup-steam span {
+    width: 3px;
+    height: 20px;
+    background: rgba(255,255,255,0.6);
+    border-radius: 2px;
+    animation: steamRiseModal 1.5s ease infinite;
+}
+
+.cup-steam span:nth-child(2) { animation-delay: 0.4s; height: 30px; }
+.cup-steam span:nth-child(3) { animation-delay: 0.8s; height: 25px; }
+.cup-steam span:nth-child(4) { animation-delay: 1.2s; height: 35px; }
+
+@keyframes steamRiseModal {
+    0% { transform: translateY(0); opacity: 0.6; }
+    100% { transform: translateY(-40px); opacity: 0; }
+}
+
+.coffee-pour {
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 3px;
+    height: 0;
+    background: linear-gradient(to bottom, var(--gold), var(--primary));
+    animation: pourLiquid 2s ease infinite;
+}
+
+@keyframes pourLiquid {
+    0% { height: 0; opacity: 0; }
+    50% { height: 50px; opacity: 1; }
+    100% { height: 0; opacity: 0; }
+}
+
+.waffle-float {
+    position: absolute;
+    bottom: -50px;
+    right: -50px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    animation: waffleFloat 4s ease infinite;
+    box-shadow: var(--shadow-lg);
+}
+
+.waffle-float img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+@keyframes waffleFloat {
+    0%, 100% { transform: translateY(0) rotate(0deg); }
+    50% { transform: translateY(-10px) rotate(5deg); }
+}
+
+.chocolate-drip {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    background: linear-gradient(to top, rgba(139,69,19,0.8), transparent);
+    animation: chocolateDrip 3s ease infinite;
+}
+
+@keyframes chocolateDrip {
+    0%, 100% { height: 0; }
+    50% { height: 40px; }
+}
+
+/* ========== WAFFLE LUXURY SECTION ========== */
+.waffle-luxury {
+    padding: 80px 0;
+    background: linear-gradient(135deg, #0D0D0D, #1A1A1A);
+}
+
+.waffle-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+}
+
+/* ========== CONTACT LUXURY ========== */
+.contact-luxury {
+    padding: 80px 0;
+    background: linear-gradient(135deg, #1A1A1A, #0D0D0D);
+}
+
+.contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+}
+
+.contact-badge {
+    display: inline-block;
+    background: rgba(212, 163, 115, 0.1);
+    padding: 0.3rem 1rem;
+    border-radius: 50px;
+    font-size: 0.7rem;
+    letter-spacing: 2px;
+    margin-bottom: 1rem;
+}
+
+.contact-info h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.contact-details {
+    margin: 2rem 0;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.contact-item i {
+    width: 40px;
+    height: 40px;
+    background: rgba(212, 163, 115, 0.1);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--gold);
+}
+
+.social-links {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.social-links a {
+    width: 45px;
+    height: 45px;
+    background: rgba(255,255,255,0.05);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    transition: var(--transition);
+    text-decoration: none;
+}
+
+.social-links a:hover {
+    background: var(--gold);
+    color: #0D0D0D;
+    transform: translateY(-5px);
+}
+
+.contact-form h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.form-group {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+    width: 100%;
+    padding: 1rem;
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 16px;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    transition: var(--transition);
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: var(--gold);
+    background: rgba(255,255,255,0.05);
+}
+
+.form-group i {
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: rgba(255,255,255,0.3);
+}
+
+.form-group textarea + i {
+    top: 1rem;
+    transform: none;
+}
+
+.submit-btn {
+    width: 100%;
+    padding: 1rem;
+    background: linear-gradient(135deg, var(--gold), var(--gold-dark));
+    border: none;
+    border-radius: 16px;
+    color: #0D0D0D;
+    font-weight: 700;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.submit-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(212, 163, 115, 0.3);
+}
+
+/* ========== PREMIUM FOOTER ========== */
+.premium-footer {
+    background: #0A0A0A;
+    padding: 60px 0 30px;
+    border-top: 1px solid rgba(255,255,255,0.05);
+}
+
+.footer-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1.5fr;
+    gap: 3rem;
+    margin-bottom: 3rem;
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 1rem;
+}
+
+.footer-logo i {
+    font-size: 1.8rem;
+    color: var(--gold);
+}
+
+.footer-logo span {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.footer-brand p {
+    opacity: 0.6;
+    font-size: 0.85rem;
+    margin: 1rem 0;
+}
+
+.footer-badge {
+    display: inline-block;
+    background: rgba(212, 163, 115, 0.1);
+    padding: 0.3rem 0.8rem;
+    border-radius: 50px;
+    font-size: 0.7rem;
+    color: var(--gold);
+}
+
+.footer-links h4 {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.footer-links a {
+    display: block;
+    color: rgba(255,255,255,0.6);
+    text-decoration: none;
+    margin-bottom: 0.6rem;
+    font-size: 0.85rem;
+    transition: var(--transition);
+}
+
+.footer-links a:hover {
+    color: var(--gold);
+    transform: translateX(5px);
+}
+
+.newsletter-group {
+    display: flex;
+    margin-top: 1rem;
+}
+
+.newsletter-group input {
+    flex: 1;
+    padding: 0.8rem;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 12px 0 0 12px;
+    color: #fff;
+}
+
+.newsletter-group button {
+    background: var(--gold);
+    border: none;
+    padding: 0 1rem;
+    border-radius: 0 12px 12px 0;
+    cursor: pointer;
+    color: #0D0D0D;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(255,255,255,0.05);
+    font-size: 0.8rem;
+    opacity: 0.5;
+}
+
+/* ========== LUXURY MODAL ========== */
+.luxury-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.4s ease;
+}
+
+.luxury-modal.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.modal-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.95);
+    backdrop-filter: blur(10px);
+}
+
+.modal-container {
+    position: relative;
+    width: 90%;
+    max-width: 750px;
+    max-height: 85vh;
+    background: linear-gradient(135deg, #1A1A1A, #0D0D0D);
+    border-radius: 32px;
+    overflow-y: auto;
+    border: 1px solid rgba(212, 163, 115, 0.3);
+    box-shadow: var(--shadow-xl);
+    animation: modalFadeIn 0.4s ease;
+}
+
+@keyframes modalFadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.modal-close {
+    position: sticky;
+    top: 1rem;
+    right: 1rem;
+    float: right;
+    background: rgba(255,255,255,0.1);
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: #fff;
+    cursor: pointer;
+    margin: 1rem;
+    z-index: 10;
+    transition: var(--transition);
+}
+
+.modal-close:hover {
+    background: var(--gold);
+    color: #0D0D0D;
+    transform: rotate(90deg);
+}
+
+.modal-inner {
+    padding: 2rem;
+    clear: both;
+}
+
+.modal-img {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 20px;
+    margin-bottom: 1.5rem;
+}
+
+/* ========== RESPONSIVE ========== */
+@media (max-width: 1200px) {
+    .hero-title {
+        font-size: 3rem;
+    }
+    .commercial-title {
+        font-size: 2.5rem;
+    }
+}
+
+@media (max-width: 992px) {
+    .hero-container,
+    .commercial-container,
+    .contact-grid,
+    .footer-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+    .hero-showcase {
+        display: none;
+    }
+    .commercial-showcase {
+        display: none;
+    }
+    .glass-nav {
+        width: 95%;
+        padding: 0.8rem 1rem;
+    }
+    .nav-menu {
+        position: fixed;
+        top: 80px;
+        left: -100%;
+        width: 80%;
+        height: calc(100vh - 80px);
+        background: #0D0D0D;
+        flex-direction: column;
+        align-items: center;
+        padding: 2rem;
+        transition: left 0.3s ease;
+        border-radius: 20px;
+    }
+    .nav-menu.active {
+        left: 10%;
+    }
+    .menu-toggle {
+        display: block;
+    }
+}
+
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 2rem;
+    }
+    .section-header h2 {
+        font-size: 2rem;
+    }
+    .commercial-title {
+        font-size: 1.8rem;
+    }
+    .commercial-features {
+        grid-template-columns: 1fr;
+    }
+    .hero-stats {
+        flex-direction: column;
+        align-items: center;
+    }
+    .stat-divider {
+        display: none;
+    }
+    .category-strip {
+        top: 80px;
+    }
+}
+
+/* ========== UTILITIES ========== */
+.coffee-grid, .combos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #1A1A1A;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--gold);
+    border-radius: 10px;
+}
+
+<script src="script.js"></script>
+</body>
+</html>
